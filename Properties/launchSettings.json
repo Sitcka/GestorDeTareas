@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GestorTareas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

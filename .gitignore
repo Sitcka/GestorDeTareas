@@ -1,0 +1,98 @@
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+
+# Build results
+
+# =========================
+
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# =========================
+
+# .NET Core
+
+# =========================
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# NuGet
+
+# =========================
+
+*.nupkg
+packages/
+!packages/build/
+
+# =========================
+
+# Rider / VS Code (por si acaso)
+
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+
+# Otros temporales
+
+# =========================
+
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+
+# Archivos generados
+
+# =========================
+
+Generated_Code/
+
+# =========================
+
+# IIS Express
+
+# =========================
+
+.vsconfig
